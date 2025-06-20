@@ -69,8 +69,6 @@ The app is modular and split into several components:
 - ✅ Clean and responsive UI using `ListView`, `Card`, and `Divider`
 - ✅ Realtime updates on every edit
 - ✅ Clear structure with separation of logic and UI
-- 🔲 (Optional) Dark theme toggle (can be added later)
-- 🔲 (Optional) Export to PDF or persistent storage
 
 ---
 
